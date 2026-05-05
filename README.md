@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Ozodbek%20Fayzullayev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=random&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Django;Building+Scalable+APIs;Always+Learning+and+Improving" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Ozodbek%20Fayzullayev&fontSize=48&fontColor=ffffffcc&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=20&descAlignY=58&descColor=ffffffcc" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fayzullayevvvv&label=Profile+views&color=blueviolet&style=flat" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Django;Building+Scalable+APIs;Always+Learning+and+Improving" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=fayzullayevvvv&label=Profile+Views&color=6366f1&style=flat" />
 
 </div>
 
@@ -19,7 +21,6 @@
 - 💻 Backend Software Engineer  
 - 🚀 Building scalable APIs with FastAPI & Django  
 - 🧩 Focused on clean architecture & performance  
-- 🌱 Currently learning: **Django (deep dive)**  
 - 📍 Samarqand, Uzbekistan  
 
 ---
@@ -35,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayzullayevvvv&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzullayevvvv&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fayzullayevvvv&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzullayevvvv&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -55,7 +56,7 @@
 
 <p align="center">
   <a href="https://t.me/fayzullayev_20">
-    <img src="https://img.shields.io/badge/Telegram-0ea5e9?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-6366f1?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:ozodbekfayzullayev1220@gmail.com">
     <img src="https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white" />
