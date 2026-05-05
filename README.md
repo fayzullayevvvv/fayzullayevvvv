@@ -1,21 +1,26 @@
-<img src="assets/banner.png" width="100%" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ozodbek Fayzullayev</h1>
-<h3 align="center">Backend Software Engineer | Python & Django</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Ozodbek%20Fayzullayev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=20&descAlignY=58&descColor=ffffff" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Software+Engineer;Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL;Always+Learning+Something+New" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;Python+%7C+FastAPI+%7C+Django;Building+Scalable+APIs;Always+Learning+and+Improving" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=fayzullayevvvv&label=Profile+views&color=3b82f6&style=flat" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Backend-focused Software Engineer  
+- 💻 Backend Software Engineer  
 - 🚀 Building scalable APIs with FastAPI & Django  
-- 🧩 Passionate about clean architecture & performance  
+- 🧩 Focused on clean architecture & performance  
 - 🌱 Currently learning: **Django (deep dive)**  
-- 📍 Based in Samarqand  
+- 📍 Samarqand, Uzbekistan  
 
 ---
 
@@ -30,19 +35,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayzullayevvvv&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzullayevvvv&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fayzullayevvvv&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayzullayevvvv&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 Featured Project
-
-### 🚀 AckProjectPlus
-
-- Backend system built with FastAPI / Django  
-- Focus: scalability & performance  
-- Clean architecture principles  
 
 ---
 
@@ -56,21 +51,13 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 <p align="center">
   <a href="https://t.me/fayzullayev_20">
-    <img src="https://img.shields.io/badge/Telegram-00FF00?style=for-the-badge&logo=telegram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Telegram-3B82F6?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:ozodbekfayzullayev1220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fayzullayevvvv&color=00ff00" />
 </p>
