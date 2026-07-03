@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=fayzullayevvvv&label=Profile+Views&color=6366f1&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=fayzullayev20&label=Profile+Views&color=6366f1&style=flat" />
 
 </div>
 
@@ -36,9 +36,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fayzullayevvvv/fayzullayevvvv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fayzullayevvvv/fayzullayevvvv/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/fayzullayevvvv/fayzullayevvvv/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fayzullayev20/fayzullayev20/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fayzullayev20/fayzullayev20/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fayzullayev20/fayzullayev20/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
